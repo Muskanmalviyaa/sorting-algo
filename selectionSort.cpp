@@ -28,3 +28,7 @@ using namespace std;
     }
     return 0;
  }
+
+// TC = O(N)
+// step-1: find min and
+//  step-2: then swap 
